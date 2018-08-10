@@ -1,10 +1,7 @@
 package threadPars;
 
-import Main.mainParse;
 import Model.ListNews;
 import Model.NewsData;
-import javafx.collections.ObservableList;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

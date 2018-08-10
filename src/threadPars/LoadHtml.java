@@ -14,7 +14,7 @@ public class LoadHtml implements Runnable {
     private String tempURL ;
     private ListNews listNews ;
     private int i ;
-    private SimpleDateFormat format = new SimpleDateFormat();
+    SimpleDateFormat format = new SimpleDateFormat();
     private Date newsDate = null;
     private String strHtml ="" ; // для тестов
     private String strLinkNews ="" ;
